@@ -15,4 +15,6 @@ function arrayOfStrings (string) {
         var newItem = string[i] + string[i+1];
         array.push(newItem);
     }
+
+    return array;
 }
