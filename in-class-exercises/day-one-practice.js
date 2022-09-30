@@ -4,7 +4,7 @@
 
 // Function takes a parameter, which is a string [CHECK]
 // We'll take the string and convert it an array that consists items, which are 2 character strings. Return that array. []
-// If the last item of the array only contains one character, add an underscore as the second character []
+// If the last item of the array only contains one character, add an underscore as the second character [].        
 
 var dummyString = "dijkstras";
 // ["di", "jk", "st", "ra", "s_"]
